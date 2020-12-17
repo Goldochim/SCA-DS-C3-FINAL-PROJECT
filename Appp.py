@@ -21,7 +21,7 @@ def Job1_via_NYSC_Prediction(Gender, Course, School_Type,Qualification, Job_Sear
 def main():
     st.title("Graduates First Job Predictor")
     html_temp="""
-    <div style="background-color:mediumslateblue;padding:10px">
+    <div style="background-color:tomato;padding:10px">
     <h2 style="color:white;text-align:center;">Employment via NYSC or Not</h2>
     </div>
     """
@@ -33,7 +33,7 @@ def main():
     Job_Search_Mode=st.text_input("Job Search Mode", "Type here")
     result=""
     if st.button("Predict"):
-        result=Job1_via_NYSC_Prediction(['Gender', 'Course', 'School_Type', 'Qualification', 'Job_Search_Mode'])
+        result=Job1_via_NYSC_Prediction(Gender, Course, School_Type, Qualification, Job_Search_Mode)
     st.success('Your job Prediction is {}'.format(result))
     if st.button("Prediction Note"):
         st.text("0-No job via NYSC, 1=Yes, you get a job via NYSC")
