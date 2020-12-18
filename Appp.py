@@ -14,7 +14,7 @@ def welcome():
     return "Welcome All"
 
 def Job1_via_NYSC_Prediction(Gender, Course, School_Type,Qualification, Job_Search_Mode):
-    prediction=clf.predict(['Gender', 'Course', 'School_Type', 'Qualification', 'Job_Search_Mode'])
+    prediction=clf.predict(['gender', 'course', 'Uni_Poly_Type', 'qualification', 'job_search_mode'])
     print(prediction)
     return 'The prediction value is '+str(prediction)
 
