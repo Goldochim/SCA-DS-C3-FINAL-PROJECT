@@ -38,6 +38,6 @@ def main():
     if st.button("Prediction Note"):
         st.text("0-No job via NYSC, 1=Yes, you get a job via NYSC")
         
-if __name__=='__main__':
-    main()
-
+if __name__ == '__main__':
+    from os import environ
+    app.run(debug=False, port=environ.get("PORT", 5000))
