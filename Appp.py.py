@@ -1,4 +1,4 @@
-<<<<<<< HEAD:Appp.py.py
+<<<<<<< HEAD:Appp.py
 # -*- coding: utf-8 -*-
 """
 Created on Thu Dec 17 12:51:35 2020
