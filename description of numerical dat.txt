@@ -4,83 +4,133 @@ gender:
 
 course:
 
-Psychology 
-Economics
-Mass Communication (Communication and Language Arts)
-Statistics
-Electrical & Electronic Engineering
-Accountancy
+75-Psychology 
+29-Economics
+90-Mass Communication (Communication and Language Arts)
+10-Statistics
+73-Electrical & Electronic Engineering
+37-Accountancy
 Industrial Relations and Personnel Management
-Biochemistry
-Banking and Finance
-Petroleum and Gas Engineering
+55-Biochemistry
+8-Banking and Finance
+121-Petroleum and Gas Engineering
 Geography
-Computer Science
-Quantity Surveying
-Fisheries
-Mechanical Engineering
+60-Computer Science
+54-Quantity Surveying
+94-Fisheries
+82-Mechanical Engineering
 Geophysics
 Architecture
 Philosophy
-Civil Engineering
-Agricultural and Bioresources Engineering
-Hospitality and Tourism', 'Mathematics', '
-Chemical Engineering       '
-Geology', '
-Microbiology', '
-Computer Engineering',
-Forest Resources Management (Forestry)', '
-Building',
-       'Social Work', 'Business Administration',
-       'History and International Studies', 'Physics and Astronomy',
-       'Law', 'International and Jurisprudence', 'Business Management',
-       'Botany', 'English and Literary Studies', 'Electrical Engineering',
-       'Education And Geography/Physics', 'Education And Biology',
-       'Linguistics and Nigerian Languages',
-       'Pharmacology and Therapeutics', 'Geoinformatics and Surveying',
-       'Pure and Industrial Chemistry', 'Veterinary Medicine',
-       'Sociology/Anthropology', 'Insurance', 'Theatre and Film Studies',
-       'Political Science',
-       'Vocational Teacher Education (Technical Education)',
-       'Medical Rehabilitation', 'Physiology', 'Estate Management',
-       'Pharmaceutical Technology and Industrial Pharmacy', 'Anatomy',
-       'Foreign Languages and Literature', 'Urban and Regional Planning',
-       'Medical Laboratory Sciences', 'Agronomy', 'Marketing',
-       'Production and Industrial Engineering', 'Soil Science',
-       'Health and Physical Education', 'Science Education', 'Medicine',
-       'Animal Health and Production', 'Archeology and Tourism',
-       'Systems Engineering', 'Food Science and Technology',
-       'Education And Political Science', 'Pharmaceutics',
-       'Community Medicine', 'Education And Chemistry',
-       'Education & Accountancy', 'Public Health/Preventive Medicine',
-       'Christian Religious Studies',
-       'Home Science, Nutrition and Dietetics', 'Animal Science',
-       'Education And English Language', 'Education & Computer Science',
-       'Zoology', 'Agriculture', 'Education & Economics',
-       'Education & Social Science', 'Library and Information Science',
-       'Electronic Engineering', 'Agricultural Economics',
-       'Educational / Psychology Guidance And Counselling',
-       'Cell Biology & Genetics',
-       'Metallurgical and Materials Engineering',
-       'Veterinary Physiology/Pharmacology',
-       'Veterinary Parasitology and Entomology', 'Acturial Science',
-       'Educational Foundations', 'Agricultural Extension', 'Religion',
-       'Marine Engineering', 'Public Administration and Local Government',
-       'Medical Microbiology', 'Education And French',
-       'Fine and Applied Arts (Creatiuve Arts)',
-       'Health Administration and Management', 'Education & Physics',
-       'Marine Biology', 'Biomedical Engineering',
-       'Adult Education and Extra-Mural Studies',
-       'Management Information System', 'Medical Biochemistry',
-       'Transport Management', 'Crop Science', 'Chemical Pathology',
-       'Demography and Social Statistics', 'Nursing Sciences',
-       'Arts Education', 'Clinical Pharmacy and Pharmacy Management',
-       'Pharmaceutical Chemistry and Industrial Pharmacy',
-       'Ophthalmology', 'Education & Mathematics', 'Public Health',
-       'French', 'Medical Radiography and Radiological Sciences',
-       'Social Sciences Education', 'Music',
-       'Department of Pharmacology and Toxicology', 'Child Dental Health',
-       'Education & Religious Studies', 'Igbo Linguistics']
+21-Civil Engineering
+9-Agricultural and Bioresources Engineering
+Hospitality and Tourism
+5-Mathematics
+62-Chemical Engineering
+93-Geology
+Microbiology
+80-Computer Engineering
+116-Forest Resources Management (Forestry)
+Building
+Social Work
+117-Business Administration
+118-History and International Studies
+76-Physics and Astronomy
+4-Law
+30-International and Jurisprudence
+15-Business Management
+51-Botany
+English and Literary Studies
+Electrical Engineering
+34-Education And Geography/Physics
+Education And Biology
+Linguistics and Nigerian Languages
+Pharmacology and Therapeutics
+Geoinformatics and Surveying
+Pure and Industrial Chemistry
+Veterinary Medicine
+Sociology/Anthropology
+Insurance
+Theatre and Film Studies
+Political Science
+Vocational Teacher Education (Technical Education)
+Medical Rehabilitation
+Physiology
+Estate Management
+Pharmaceutical Technology and Industrial Pharmacy
+Anatomy
+Foreign Languages and Literature
+Urban and Regional Planning
+Medical Laboratory Sciences
+Agronomy
+Marketing
+Production and Industrial Engineering
+Soil Science
+Health and Physical Education
+Science Education
+Medicine
+Animal Health and Production
+Archeology and Tourism
+Systems Engineering
+Food Science and Technology
+Education And Political Science
+Pharmaceutics
+Community Medicine
+Education And Chemistry
+Education & Accountancy
+Public Health/Preventive Medicine
+Christian Religious Studies
+Home Science, Nutrition and Dietetics
+Animal Science
+Education And English Language
+Education & Computer Science
+Zoology
+Agriculture
+Education & Economics
+Education & Social Science
+Library and Information Science
+Electronic Engineering
+Agricultural Economics
+Educational / Psychology Guidance And Counselling
+Cell Biology & Genetics
+Metallurgical and Materials Engineering
+Veterinary Physiology/Pharmacology
+Veterinary Parasitology and Entomology
+Acturial Science
+Educational Foundations
+Agricultural Extension
+Religion
+Marine Engineering
+Public Administration and Local Government
+Medical Microbiology
+Education And French
+Fine and Applied Arts (Creatiuve Arts)
+Health Administration and Management
+Education & Physics
+Marine Biology
+Biomedical Engineering
+Adult Education and Extra-Mural Studies
+Management Information System
+Medical Biochemistry
+Transport Management
+Crop Science
+Chemical Pathology
+Demography and Social Statistics
+Nursing Sciences
+Arts Education
+Clinical Pharmacy and Pharmacy Management
+Pharmaceutical Chemistry and Industrial Pharmacy
+Ophthalmology
+Education & Mathematics
+Public Health
+French
+Medical Radiography and Radiological Sciences
+Social Sciences Education
+Music
+Department of Pharmacology and Toxicology
+Child Dental Health
+Education & Religious Studies
+Igbo Linguistics
 
 
 
