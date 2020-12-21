@@ -2,8 +2,8 @@ gender:
 0: Male
 1: Female
 
-course:
 
+course:
 75-Psychology 
 29-Economics
 90-Mass Communication (Communication and Language Arts)
@@ -28,7 +28,7 @@ Hospitality and Tourism
 5-Mathematics
 62-Chemical Engineering
 93-Geology
-Microbiology
+47- Microbiology
 80-Computer Engineering
 116-Forest Resources Management (Forestry)
 Building
@@ -46,7 +46,7 @@ Electrical Engineering
 Education And Biology
 Linguistics and Nigerian Languages
 Pharmacology and Therapeutics
-Geoinformatics and Surveying
+112-Geoinformatics and Surveying
 Pure and Industrial Chemistry
 Veterinary Medicine
 Sociology/Anthropology
@@ -55,12 +55,12 @@ Theatre and Film Studies
 Political Science
 Vocational Teacher Education (Technical Education)
 Medical Rehabilitation
-Physiology
-Estate Management
+57-Physiology
+69-Estate Management
 Pharmaceutical Technology and Industrial Pharmacy
 Anatomy
 Foreign Languages and Literature
-Urban and Regional Planning
+79-Urban and Regional Planning
 Medical Laboratory Sciences
 Agronomy
 Marketing
@@ -68,7 +68,7 @@ Production and Industrial Engineering
 Soil Science
 Health and Physical Education
 Science Education
-Medicine
+81-Medicine
 Animal Health and Production
 Archeology and Tourism
 Systems Engineering
@@ -87,7 +87,7 @@ Education & Computer Science
 Zoology
 Agriculture
 Education & Economics
-Education & Social Science
+70-Education & Social Science
 Library and Information Science
 Electronic Engineering
 Agricultural Economics
@@ -131,11 +131,6 @@ Department of Pharmacology and Toxicology
 Child Dental Health
 Education & Religious Studies
 Igbo Linguistics
-
-
-
-
-
 
 
 Uni_Poly_Type:
