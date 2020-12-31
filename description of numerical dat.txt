@@ -10,29 +10,24 @@ course:
 10-Statistics
 73-Electrical & Electronic Engineering
 37-Accountancy
-Industrial Relations and Personnel Management
+57-Physiology
+69-Estate Management
 55-Biochemistry
 8-Banking and Finance
 121-Petroleum and Gas Engineering
-Geography
 60-Computer Science
 54-Quantity Surveying
 94-Fisheries
 82-Mechanical Engineering
-Geophysics
-Architecture
-Philosophy
 21-Civil Engineering
 9-Agricultural and Bioresources Engineering
-Hospitality and Tourism
 5-Mathematics
 62-Chemical Engineering
 93-Geology
+70-Education & Social Science
 47- Microbiology
 80-Computer Engineering
 116-Forest Resources Management (Forestry)
-Building
-Social Work
 117-Business Administration
 118-History and International Studies
 76-Physics and Astronomy
@@ -40,27 +35,28 @@ Social Work
 30-International and Jurisprudence
 15-Business Management
 51-Botany
-English and Literary Studies
-Electrical Engineering
 34-Education And Geography/Physics
+112-Geoinformatics and Surveying
+79-Urban and Regional Planning
+81-Medicine
+40-Pure and Industrial Chemistry
+
+
+
+Veterinary Medicine
+Sociology/Anthropology
 Education And Biology
 Linguistics and Nigerian Languages
 Pharmacology and Therapeutics
-112-Geoinformatics and Surveying
-Pure and Industrial Chemistry
-Veterinary Medicine
-Sociology/Anthropology
 Insurance
 Theatre and Film Studies
+Industrial Relations and Personnel Management
 Political Science
 Vocational Teacher Education (Technical Education)
 Medical Rehabilitation
-57-Physiology
-69-Estate Management
 Pharmaceutical Technology and Industrial Pharmacy
 Anatomy
 Foreign Languages and Literature
-79-Urban and Regional Planning
 Medical Laboratory Sciences
 Agronomy
 Marketing
@@ -68,7 +64,6 @@ Production and Industrial Engineering
 Soil Science
 Health and Physical Education
 Science Education
-81-Medicine
 Animal Health and Production
 Archeology and Tourism
 Systems Engineering
@@ -82,13 +77,19 @@ Public Health/Preventive Medicine
 Christian Religious Studies
 Home Science, Nutrition and Dietetics
 Animal Science
+Geography
 Education And English Language
 Education & Computer Science
 Zoology
 Agriculture
 Education & Economics
-70-Education & Social Science
+Geophysics
+Hospitality and Tourism
+Architecture
+Philosophy
 Library and Information Science
+Building
+Social Work
 Electronic Engineering
 Agricultural Economics
 Educational / Psychology Guidance And Counselling
@@ -107,6 +108,8 @@ Education And French
 Fine and Applied Arts (Creatiuve Arts)
 Health Administration and Management
 Education & Physics
+English and Literary Studies
+Electrical Engineering
 Marine Biology
 Biomedical Engineering
 Adult Education and Extra-Mural Studies
