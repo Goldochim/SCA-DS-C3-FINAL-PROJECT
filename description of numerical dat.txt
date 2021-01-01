@@ -50,8 +50,6 @@ course:
 7-Pharmaceutical Technology and Industrial Pharmacy
 41-Agronomy
 55-Soil Science
-
-
 Veterinary Medicine
 Education And Biology
 Linguistics and Nigerian Languages
