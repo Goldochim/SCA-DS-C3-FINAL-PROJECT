@@ -43,25 +43,26 @@ course:
 64-Industrial Relations and Personnel Management
 87-Public Administration and Local Government
 57-Library and Information Science
+17-Sociology/Anthropology
+92-Insurance
+68-Theatre and Film Studies
+43-Vocational Teacher Education (Technical Education)
+7-Pharmaceutical Technology and Industrial Pharmacy
+41-Agronomy
+55-Soil Science
+
 
 Veterinary Medicine
-17-Sociology/Anthropology
 Education And Biology
 Linguistics and Nigerian Languages
 Pharmacology and Therapeutics
-92-Insurance
-68-Theatre and Film Studies
 Political Science
-43-Vocational Teacher Education (Technical Education)
 Medical Rehabilitation
-7-Pharmaceutical Technology and Industrial Pharmacy
 Anatomy
 Foreign Languages and Literature
 Medical Laboratory Sciences
-41-Agronomy
 Marketing
 Production and Industrial Engineering
-55-Soil Science
 Health and Physical Education
 Science Education
 Animal Health and Production
@@ -87,7 +88,6 @@ Geophysics
 Hospitality and Tourism
 Architecture
 Philosophy
-
 Building
 Social Work
 Electronic Engineering
