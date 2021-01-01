@@ -40,7 +40,8 @@ course:
 79-Urban and Regional Planning
 81-Medicine
 40-Pure and Industrial Chemistry
-
+64-Industrial Relations and Personnel Management
+87-Public Administration and Local Government
 
 
 Veterinary Medicine
@@ -50,7 +51,6 @@ Linguistics and Nigerian Languages
 Pharmacology and Therapeutics
 Insurance
 Theatre and Film Studies
-Industrial Relations and Personnel Management
 Political Science
 Vocational Teacher Education (Technical Education)
 Medical Rehabilitation
@@ -102,7 +102,6 @@ Educational Foundations
 Agricultural Extension
 Religion
 Marine Engineering
-Public Administration and Local Government
 Medical Microbiology
 Education And French
 Fine and Applied Arts (Creatiuve Arts)
