@@ -42,7 +42,7 @@ course:
 40-Pure and Industrial Chemistry
 64-Industrial Relations and Personnel Management
 87-Public Administration and Local Government
-
+57-Library and Information Science
 
 Veterinary Medicine
 Sociology/Anthropology
@@ -87,7 +87,7 @@ Geophysics
 Hospitality and Tourism
 Architecture
 Philosophy
-Library and Information Science
+
 Building
 Social Work
 Electronic Engineering
