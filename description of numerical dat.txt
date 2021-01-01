@@ -45,16 +45,16 @@ course:
 57-Library and Information Science
 
 Veterinary Medicine
-Sociology/Anthropology
+17-Sociology/Anthropology
 Education And Biology
 Linguistics and Nigerian Languages
 Pharmacology and Therapeutics
-Insurance
-Theatre and Film Studies
+92-Insurance
+68-Theatre and Film Studies
 Political Science
-Vocational Teacher Education (Technical Education)
+43-Vocational Teacher Education (Technical Education)
 Medical Rehabilitation
-Pharmaceutical Technology and Industrial Pharmacy
+7-Pharmaceutical Technology and Industrial Pharmacy
 Anatomy
 Foreign Languages and Literature
 Medical Laboratory Sciences
